@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### MIS HABILIDADES
 ##### Como dije al principio, estoy más orientado al backend con Express y Node, pero también puedo manejarme con React, Redux, HTML y, obviamente, JavaScript. Tengo también conocimientos de Sequelize, PostgreSQL y bases en C++ y C# orientado a videojuegos.
 
-#### Express, Node, React, Redux, JavaScript, HTML, C++
+### Express, Node, React, Redux, JavaScript, HTML, C++
 
-## CONTACTO
+### CONTACTO
 ### [LinkedIn](https://www.linkedin.com/in/bautista-manolizi/)
