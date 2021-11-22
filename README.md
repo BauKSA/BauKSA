@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 ### Express, Node, React, Redux, JavaScript, HTML, C++
 
-### CONTACTO
-### [LinkedIn](https://www.linkedin.com/in/bautista-manolizi/)
+### Les dejo mi perfil de LinkedIn para que puedan contactarme!
+### [Bautista Manolizi](https://www.linkedin.com/in/bautista-manolizi/)
