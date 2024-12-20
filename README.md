@@ -15,23 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### Mi nombre es Bautista y soy un desarrollador fullstack. Voy a estar usando este perfil de GitHub como portfolio, para ir mostrando todos mis proyectos, estén finalizados o en preceso.
+##### Mi nombre es Bautista y soy ✨programador✨. Voy a estar usando este perfil de GitHub como portfolio, para ir mostrando todos mis proyectos, estén finalizados o en preceso.
 
-##### Estoy graduado como fullstack developer en SoyHenry, donde me orienté más para el lado del backend, con teconologías como Node y Express, pero también me manejo con el front. Entré al mundo de la programación gracias a mi pasión por los videojuegos, pero aproveché la pandemia para expandirme un poco más y meterle al desarrollo web, en lo que estoy enfocado ahora mismo... aunque sin dejar atrás mis origenes en este mundo.
+Aunque hice algún que otro curso, la realidad es que toda mi formación fue de manera autodidacta. Hoy me encuentro trabajando como desarrollador web backend (TypeScript, Node, MySQL).
+También laburo mucho con C++, como programador de videojuegos, aunque esto es más un proyecto personal que algo laboral "oficial".
 
 ### SOBRE MÍ
-##### Nací en la provincia de Buenos Aires, Argentina, y desde que tengo recuerdos estoy en frente de una computadora. Como dije, todo empezó con los videojuegos, pero, poco a poco, empezó a expandirse más y más. Hoy estoy con muchísimas ganas de nuevos desafíos, de nuevos proyectos. Tengo muchos personales y también estoy abierto a cualquier tipo de oferta laboral que pueda brindarme nuevos conocimientos.
+Nací en Buenos Aires y acá me quedé. Desde que tengo memoria soy fan de los videojuegos y hoy llevo mi pasión para el lado de la programación.
 
 ### MIS HABILIDADES
-##### Como dije al principio, estoy más orientado al backend con Express y Node, pero también puedo manejarme con React, Redux, HTML y algo de CSS. Tengo también conocimientos de Sequelize, PostgreSQL, Firebase y MongoDB.
+Hora de chapear (?). Por el lado del desarrollo web, laburo más orientado al backend, donde tengo experiencia en TypeScript y Node. En cuanto a base de datos, actualmente uso MySQL, pero también
+laburé con Mongo, SQLite y Firebase. Por más que me haya especializado en el back, también tengo conocimientos en React.
 
-### MIS TRABAJOS
-#### Como programador freelance, desarrollé como fullstack la web [The Bookhall](https://thebookhall.com.ar/). Además, me encuentro trabajando como tutor backend en CoderHouse y desarrollando proyectos personales para nunca dejar de programar y formarme.
+### PORTFOLIO
+Por ahora mi portfolio en cuanto a código es este GitHub... acá estoy subiendo tanto proyectos como distintos archivos que me sirven/sirvieron de ayuda, por si a alguien más les resultan útiles.
+También tengo un perfil en Itch.io: https://fox-hushen.itch.io/.
 
-### OTROS ESTUDIOS
-#### Aparte del desarrollo web, también estoy estudiando y formándome constantemente en los lenguajes C/C++, orientado a la parte de videojuegos y robótica. Además, cuento con conocimientos en COBOL.
 
-### Express, Node, React, Redux, JavaScript, HTML, C++, COBOL
-
-### Les dejo mi perfil de LinkedIn para que puedan contactarme!
-### [Bautista Manolizi](https://www.linkedin.com/in/bautista-manolizi/)
+### Contacto
+Si alguien me quiere contactar para laburo, para bardearme o para lo que sea (salvo para pedir plata), me pueden escribir a bau_manolizi@outlook.com!
