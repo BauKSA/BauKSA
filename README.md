@@ -1,36 +1,67 @@
-# BUENAS!
+# ¡Hola! Soy Bautista Manolizi
 
-<!--
-**BauKSA/BauKSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Game Developer & Fullstack Developer** desde Buenos Aires, Argentina.
 
-Here are some ideas to get you started:
+Mi foco principal es el **desarrollo de videojuegos**, especialmente a bajo nivel y con una fuerte base en **C/C++**, diseño de arquitecturas y sistemas reutilizables. Me interesa entender *cómo funcionan las cosas por dentro*: desde motores, ECS y renderizado, hasta las limitaciones reales del hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Al mismo tiempo, trabajo profesionalmente en el **desarrollo web backend (aunque también cuento con experiencia en frontend y mobile)**, lo que me permite combinar pensamiento técnico profundo con productos reales, escalables y mantenibles.
 
-##### Mi nombre es Bautista y soy ✨programador✨. Voy a estar usando este perfil de GitHub como portfolio, para ir mostrando todos mis proyectos, estén finalizados o en preceso.
+---
 
-Aunque hice algún que otro curso, la realidad es que toda mi formación fue de manera autodidacta. Hoy me encuentro trabajando como desarrollador web backend (TypeScript, Node, MySQL).
-También laburo mucho con C++, como programador de videojuegos, aunque esto es más un proyecto personal que algo laboral "oficial".
+## 🕹️ Game Development
 
-### SOBRE MÍ
-Nací en Buenos Aires y acá me quedé. Desde que tengo memoria soy fan de los videojuegos y hoy llevo mi pasión para el lado de la programación.
+Fundador de **Hushen Studios**, donde desarrollo videojuegos propios para distintas plataformas:
 
-### MIS HABILIDADES
-Hora de chapear (?). Por el lado del desarrollo web, laburo más orientado al backend, donde tengo experiencia en TypeScript y Node. En cuanto a base de datos, actualmente uso MySQL, pero también
-laburé con Mongo, SQLite y Firebase. Por más que me haya especializado en el back, también tengo conocimientos en React.
+* 🧠 **Arquitectura y programación orientada a videojuegos**
+* ⚙️ **C / C++** (SFML, SDL, Allegro5, OpenGL, Box2D, GBDK)
+* 🧩 **Entity Component System (ECS)**
+* 🏗️ Patrones de diseño: *Singleton, Factory, Observer*
+* 🎮 Motores: **Unity (C#)**, **Unreal Engine (Blueprints)**, **GameMaker (GML)**
 
-### PORTFOLIO
-Por ahora mi portfolio en cuanto a código es este GitHub... acá estoy subiendo tanto proyectos como distintos archivos que me sirven/sirvieron de ayuda, por si a alguien más les resultan útiles.
-También tengo un perfil en Itch.io: https://fox-hushen.itch.io/.
+### 🚀 Juegos publicados
 
+* *The Sacred Scroll* (PC)
+* *Reindeers & Hearths* (PC)
+* *StageX* (PC)
+* *Storm* (PC / Web)
+* *The Haunted Village* (Web)
 
-### Contacto
-Si alguien me quiere contactar para laburo, para bardearme o para lo que sea (salvo para pedir plata), me pueden escribir a bau_manolizi@outlook.com!
+👉 Podés verlos en: **[https://fox-hushen.itch.io/](https://fox-hushen.itch.io/)**
+
+### 🛠️ En desarrollo
+
+* **DMG Day** – *Game Boy* (GBDK / C)
+* **Prototype** – *PC*
+
+---
+
+## 🌐 Desarrollo Web & Mobile
+
+Trabajo como **Fullstack Developer (foco backend)** en proyectos reales, tanto freelance como en equipos:
+
+* 🖥️ **Node.js / TypeScript / Express**
+* 🗄️ **SQL & NoSQL**: PostgreSQL, MySQL, MongoDB, Firebase
+* 🔐 APIs REST, autenticación, middlewares
+* 🐳 **Docker / Docker Compose**
+
+* ⚛️ **React / Next.js / Redux**
+* 📱 **React Native + Expo** (mobile y TV)
+
+---
+
+## 🧠 Intereses
+
+* Motores de juego y herramientas propias
+* Programación de bajo nivel
+* Optimización y mecánicas
+* Arquitectura de software aplicada a videojuegos
+
+---
+
+## 📫 Contacto
+
+* 💼 GitHub: [https://github.com/BauKSA](https://github.com/BauKSA)
+* 🎮 Itch.io: [https://fox-hushen.itch.io/](https://fox-hushen.itch.io/)
+* 💬 Twitter/X: [https://x.com/bau_hushen](https://x.com/bau_hushen)
+* 🔗 LinkedIn: [https://www.linkedin.com/in/bautista-manolizi/](https://www.linkedin.com/in/bautista-manolizi/)
+
