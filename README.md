@@ -31,7 +31,6 @@ Fundador de **Hushen Studios**, donde desarrollo videojuegos propios para distin
 ### 🛠️ En desarrollo
 
 * **DMG Day** – *Game Boy* (GBDK / C)
-* **Prototype** – *PC*
 
 ---
 
