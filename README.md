@@ -2,7 +2,7 @@
 
 🎮 **Game Developer & Fullstack Developer** desde Buenos Aires, Argentina.
 
-Mi foco principal es el **desarrollo de videojuegos**, especialmente a bajo nivel y con una fuerte base en **C/C++**, diseño de arquitecturas y sistemas reutilizables. Me interesa entender *cómo funcionan las cosas por dentro*: desde motores, ECS y renderizado, hasta las limitaciones reales del hardware.
+Mi foco principal es el **desarrollo de videojuegos**, especialmente a bajo nivel y con una fuerte base en **C/C++**, diseño de arquitecturas y sistemas reutilizables. Me interesa entender *cómo funcionan las cosas por dentro*: desde motores, arquitecturas y renderizado, hasta las limitaciones reales del hardware.
 
 Al mismo tiempo, trabajo profesionalmente en el **desarrollo web backend (aunque también cuento con experiencia en frontend y mobile)**, lo que me permite combinar pensamiento técnico profundo con productos reales, escalables y mantenibles.
 
