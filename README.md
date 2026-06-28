@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Bautista Manolizi
+# Bautista Manolizi
 
 **Full Stack Developer · Mobile Developer · Game Developer**
 
@@ -53,7 +53,7 @@ ECS · Singleton · Factory · Observer
 
 | Juego | Plataforma | Año |
 |---|---|---|
-| 🕸️ [The Haunted Village](https://fox-hushen.itch.io/the-haunted-village) | Web | 2026 |
+| 🕸️ [The Haunted Village](https://fox-hushen.itch.io/the-haunted-village) | Web | 2026 | Demo jam
 | ⛈️ [Storm](https://fox-hushen.itch.io/storm) | PC / Web | 2025 |
 | 🛸 [StageX](https://fox-hushen.itch.io/stagex) | PC | 2025 |
 | 🦌 [Reindeers & Hearths](https://fox-hushen.itch.io/reindeers-and-hearths) | PC | 2024 |
