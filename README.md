@@ -63,7 +63,7 @@ ECS · Singleton · Factory · Observer
 
 | Juego | Plataforma | Estado |
 |---|---|---|
-| 🎮 DMG Day | Game Boy (GBDK / C) | En desarrollo |
+| 🎮 DMG Day | Game Boy | En desarrollo |
 
 ---
 
