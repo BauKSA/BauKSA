@@ -52,7 +52,7 @@ ECS · Singleton · Factory · Observer
 ### Juegos publicados
 
 | Juego | Plataforma | Año | Notas
-|---|---|---|
+|---|---|---|---|
 | 🕸️ [The Haunted Village](https://fox-hushen.itch.io/the-haunted-village) | Web | 2026 | Demo jam
 | ⛈️ [Storm](https://fox-hushen.itch.io/storm) | PC / Web | 2025 |
 | 🛸 [StageX](https://fox-hushen.itch.io/stagex) | PC | 2025 |
